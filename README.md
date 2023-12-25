@@ -11,4 +11,4 @@ You need to run as scrapy. Go to the main directory and run two commands:
 
 Note: The first spider nevadapro_2 will scrape the data specified in the dict or json format.
 Note: The second spider nevadaepro_download_files will download the attachments from the each url and store it in the downloaded_files in the homedirectory
-Note: The first spder and second spider share a common database named database.csv where all the url's of the form reside. 
+Note: The first spider and second spider share a common database named database.csv where all the url's of the form reside. 
